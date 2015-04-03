@@ -1,27 +1,20 @@
-# general configuration
-url: http://excentris.net
-baseurl: ''
+# Site settings
+title: 泉州市阜康通讯设备有限公司
+email: fkiosdev@163.com
+url: http://www.fukang.tk
+description: "Quanzhou Fukang Communications Technology Co., Ltd."
 
-# compass configuration
-compass:
-  # an avatar or logo (optional)
-  logo: "/images/compass.png"
-  # author will appear under the avatar (optional)
-  author: "泉州市阜康通讯设备有限公司"
-  # tagline will appear under the title (optional)
-  tagline: "Quanzhou Fukang Communications Technology Co., Ltd."
-  # if include_content is true, the contents of the content.html include will be
-  # added right above the generated item list, if present
-  include_content: true
-  # if include_analytics is true, the content of the analytics.html include will
-  # be added at the end of the <head> section. You can add your Google Analytics
-  # Tracking Code to that file.
-  include_analytics: false
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
 
-# Dependencies
+# Footer settings
+footer: Quanzhou Fukang Communications Technology Co., Ltd.
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+# Build settings
 markdown: kramdown
-highlighter: pygments
-
-# Permalinks
 permalink: pretty
-relative_permalinks: true
