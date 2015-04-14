@@ -1,8 +1,8 @@
 # Site settings
-title: 泉州市阜康通讯设备有限公司
-email: fkiosdev@163.com
-url: http://www.fukang.tk
-description: "Quanzhou Fukang Communications Technology Co., Ltd."
+title: 泉州旭源商贸有限公司
+email: xyiosdev@163.com
+url: http://www.quanzhouxuyuan.tk
+description: "Quanzhou Xuyuan Trading Co., Ltd."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Quanzhou Fukang Communications Technology Co., Ltd.
+footer: Quanzhou Xuyuan Trading Co., Ltd.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
